@@ -1,0 +1,2 @@
+# finace-data
+THIS IS PERSONAL ASSIGMIENT COPY
